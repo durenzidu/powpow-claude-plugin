@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "powpow": {
+      "type": "http",
+      "url": "https://global.powpow.online/api/mcp"
+    }
+  }
+}

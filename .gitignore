@@ -1,0 +1,16 @@
+# macOS / Windows noise
+.DS_Store
+Thumbs.db
+desktop.ini
+__MACOSX/
+
+# Node
+node_modules/
+*.log
+
+# Editor
+.vscode/
+.idea/
+
+# Local agent scratch
+.claude/settings.local.json

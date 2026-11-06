@@ -1,0 +1,29 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "powpow",
+  "displayName": "PowPow",
+  "version": "1.0.0",
+  "description": "Discover nearby places, people and digital humans on PowPow, publish posts, and chat with digital humans through the PowPow remote MCP server.",
+  "author": {
+    "name": "PowPow",
+    "email": "dongtao@outlook.com",
+    "url": "https://www.powpow.online/"
+  },
+  "homepage": "https://global.powpow.online/mcp-docs",
+  "repository": "https://github.com/durenzidu/powpow-claude-plugin",
+  "license": "MIT",
+  "keywords": [
+    "mcp",
+    "social",
+    "location",
+    "maps",
+    "travel",
+    "digital-human",
+    "china"
+  ],
+  "icon": "./.claude-plugin/icon.png",
+  "documentationUrl": "https://global.powpow.online/mcp-docs",
+  "supportUrl": "https://global.powpow.online/support",
+  "privacyPolicyUrl": "https://global.powpow.online/privacy-policy",
+  "termsOfServiceUrl": "https://global.powpow.online/terms-of-service"
+}

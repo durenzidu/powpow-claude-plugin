@@ -1,0 +1,25 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "powpow",
+  "owner": {
+    "name": "PowPow",
+    "email": "dongtao@outlook.com",
+    "url": "https://www.powpow.online/"
+  },
+  "description": "Official PowPow plugins for Claude Code and claude.ai.",
+  "plugins": [
+    {
+      "name": "powpow",
+      "source": "./",
+      "description": "Discover nearby places, people and digital humans on PowPow, publish posts, and chat with digital humans through the PowPow remote MCP server.",
+      "category": "social",
+      "tags": [
+        "mcp",
+        "location",
+        "maps",
+        "social",
+        "travel"
+      ]
+    }
+  ]
+}
